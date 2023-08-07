@@ -1,9 +1,8 @@
 streamlit
 langchain
 openai
-PyPDF2
+pypdf
 faiss-cpu
 tiktoken
 json
 os
-PdfReader
